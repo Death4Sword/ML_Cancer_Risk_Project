@@ -1,2 +1,3 @@
-pred_cancer_random_forest_model_classifier.joblib
+pred_cancer_random_forest_model_classifier
+pred_cancer_logistic_regression
 ml_cancer_venv/
