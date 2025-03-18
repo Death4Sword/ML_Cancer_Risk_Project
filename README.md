@@ -27,7 +27,7 @@ Plusieurs modèles ont été testés et comparés :
 - **LightGBM**
 - **SVM**
 
-L'évaluation a été réalisée via la métrique **AUC** et **Accuracy**, avec des comparaisons basées sur la validation croisée.
+L'évaluation a été réalisée via **AUC** et **Accuracy**.
 
 ## Résultats
 Les modèles ont été comparés selon leurs performances en termes d'AUC et d'Accuracy. Voici un aperçu des résultats obtenus :
